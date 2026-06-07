@@ -15,7 +15,7 @@ This matrix tracks the active, jurisdiction-specific modules bridging the AMRE c
 ### 2. Administrative & Compliance Modules 
 **[Magento Module: IP Ledger](https://github.com/Eckohaus-Ltd/magento-module-ip-ledger)** 
 * **Role:** Jurisdictional compliance and asset tracking. 
-* **Function:** Connects transactional web data with the UK administrative ledger, managing the commercial licensing vectors of the underlying scientific R&D. 
+* **Function:** Acts as a dual-layer ledger. It provides a UI-centric frontend view of active registrations via [eckohaus.blog/in-process/](https://eckohaus.blog/in-process/), while simultaneously integrating into the Magento admin portal dashboard to manage transactional web data and commercial licensing vectors for the underlying scientific R&D.
  
 ## ?? Architectural Purpose 
 * **Jurisdictional Separation:** Isolates UK corporate compliance, SMTP routing, and IP management from the core physics engine. 
